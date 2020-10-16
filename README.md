@@ -1,1 +1,1 @@
-# typescript-programming
+# It's a repository of TypeScript (TS) programming 📘📜🔢

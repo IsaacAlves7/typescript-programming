@@ -1,5 +1,28 @@
 # It's a repository of TypeScript (TS) programming 📘📜🔢
+<p>I created this repository for my TypeScript Full-Stack Development learning.</p>
+<blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento TypeScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</blockquote>
+<li>https://github.com/IsaacAlves7/javascript-programming</li>
+&nbsp;
 <img src="https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg" width="1070"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 https://assets.bbhub.io/company/sites/40/2020/11/ts_banana-473x428.png
 https://softwarebrothers.co/blog/content/images/2019/10/Blogpost.png

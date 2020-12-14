@@ -9,5 +9,5 @@ https://pic4.zhimg.com/v2-ed0c11740c5bf50f307a38d0262149b1_250x0.jpg
 https://user-images.githubusercontent.com/6764957/52892445-9045cf80-3136-11e9-9d5e-a1c47e505372.png
 https://serokell.io/files/0u/0ufu1q21.js-ts.jpg
 https://www.typescriptlang.org/images/branding/two-longform.svg
-
+https://miro.medium.com/max/2640/1*zFOmo73YnwZzrrTXZouEGQ.png
 -->

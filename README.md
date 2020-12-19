@@ -4,6 +4,7 @@
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-orangered?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+[![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 
 <img src="https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg" width="1070"/>
 

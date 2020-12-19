@@ -1,7 +1,9 @@
 # It's a repository of TypeScript (TS) programming 📘📜🔢
 <p>I created this repository for my TypeScript Full-Stack Development learning.</p>
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, vale lembrar que esse repositório é somente focado no desenvolvimento TypeScript, se quer aprender sobre HTML e CSS recomendo acessar o outro repositório pelo link abaixo!</blockquote>
-<li>https://github.com/IsaacAlves7/javascript-programming</li>
+
+[![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/IsaacAlves7/javascript-programming)
+
 &nbsp;
 <img src="https://pantheon.io/sites/default/files/field/image/TypeScriptImage.jpeg" width="1070"/>
 

@@ -1,5 +1,5 @@
 # It's a repository of TypeScript (TS) programming 📘📜🔢
-[![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=Atom&logoColor=blue)](#)
+[![TSX](https://img.shields.io/badge/-main.tsx-fff?style=social&logo=React&logoColor=blue)](#)
 [![React.js](https://img.shields.io/badge/-app.jsx-fff?style=social&logo=React&logoColor=61DAFB)](#)
 
 <p>I created this repository for my TypeScript Full-Stack Development learning.</p>
@@ -12,8 +12,8 @@
 [![JS](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/IsaacAlves7/javascript-programming)
 [![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=React&logoColor=white)](https://github.com/IsaacAlves7/react.js-programming)
 
-
-
+# FullStack TypeScript (TS)
+![tsmean-tech-stack](https://user-images.githubusercontent.com/61624336/112906968-74f27000-90c3-11eb-89d3-fd6328e44968.png)
 
 
 
